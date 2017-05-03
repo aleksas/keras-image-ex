@@ -1,6 +1,6 @@
-# keras-imagedatagenerator-ex
+# keras-image-ex
 
-Keras ImageDataGenerator extended class to allow loading images from other sources.
+image_ex.py containg keras ImageDataGenerator extended class to allow loading images from other sources.
 
 Using ImageDataGeneratorEx class one can load images sotred directly in a SQL database. I use it to load images from SQLite db because dealing with lots of images becomes very complicated.
 
